@@ -1,3 +1,3 @@
-# jupyter_scratchbook
+## jupyter scratchbook
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yyu/jupyter_scratchbook/master?urlpath=tree/blank.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yyu/jupyter_scratchbook/master?urlpath=tree/ipyleaflet.ipynb)
