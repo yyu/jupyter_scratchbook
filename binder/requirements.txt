@@ -1,6 +1,9 @@
 traitlets>=4.3.1
 ipyleaflet
 ipython
+cloudict
+ipymap
+folium
 pandas
 vdom
 jupyterlab_launcher>=0.5.0
