@@ -5,6 +5,11 @@ cloudict
 ipymap
 folium
 pandas
+geopandas
+fiona
+shapely
+pyproj
+rtree
 vdom
 jupyterlab_launcher>=0.5.0
 
